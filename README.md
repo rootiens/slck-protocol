@@ -1,5 +1,7 @@
 ## `SLCK`
 
+![screenshot](./example.jpg)
+
 `SLCK` is a toy protocol written for the purpose of playing with bytes and tcp protocol in Go
 
 `SLCK` has a few different commands:
